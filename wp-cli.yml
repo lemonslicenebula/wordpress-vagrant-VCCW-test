@@ -1,0 +1,4 @@
+require:
+  - wp-cli/browse-command.php
+@example.test:
+  ssh: vagrant:example.test:/var/www/html
